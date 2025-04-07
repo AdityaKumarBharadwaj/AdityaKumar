@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Kumar 👋</h1>
-<h3 align="center">Web Development | Cloud Computing | BTech @ VIT Bhopal</h3>
+<h3 align="center">Web Development | Cloud Computing | BTech @ VIT Bhopal University</h3>
 
 <p align="center">
   Curious mind. Code enthusiast. Cricket lover.
